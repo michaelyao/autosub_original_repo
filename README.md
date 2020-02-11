@@ -1,3 +1,7 @@
+# This is modified version from original autosub.
+
+I moved all the functions and code from __init__.py to __main__.py
+
 # Autosub <a href="https://pypi.python.org/pypi/autosub"><img src="https://img.shields.io/pypi/v/autosub.svg"></img></a>
   
 ### Auto-generated subtitles for any video
